@@ -9,7 +9,7 @@ print("Multiplication of three numbers: ", d)
 d = (a + b + c) / 3 ;
 print("The average of three numbers: ", d)
 
-if a > b:
+if a > b :
 	max = a
 else:
 	max = b
